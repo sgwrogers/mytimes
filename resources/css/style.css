@@ -1,0 +1,25 @@
+* {
+
+}
+
+.header {
+  align-items: center;
+  border-bottom: 1px solid black;
+  display: flex;
+  height: 80px;
+  font-family: Verdana;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.logo {
+  align-items: center;
+  color: MediumAquamarine;
+  display: flex;
+  margin-left: 60px;
+}
+
+nav {
+  display: inline-block;
+  justify-content: flex-end;
+}
